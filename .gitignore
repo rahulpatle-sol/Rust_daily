@@ -14,3 +14,8 @@ Cargo.lock
 
 # OS
 Thumbs.db
+.bin
+.json
+.DS
+.d
+

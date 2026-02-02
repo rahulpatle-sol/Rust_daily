@@ -103,8 +103,19 @@ all  methods of slices
 // 
 
 
+//  some exericse 
 
+let  age:u8=23;
+let mut cur_year:u16=2026;
+println!("my age is {},the current year {}",age,cur_year);
 
-
+cur_year=2027;
+print!("u[pdated year{}",cur_year);
+// 2.2
+let  mut ert:u8=34;
+ert=23;
+println!("the value of ert{}",ert);
+// maybe it is overwritten before being read?
+//  try  to  make it mutable varible using mut 
 
 }
